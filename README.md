@@ -33,6 +33,12 @@
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />&nbsp
 </div>
 
+<br><br>
+
+<h3 align="center">🌱 Stats 🌱</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonjun16)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonjun16&layout=compact)
+
 <!--
 **wonjun16/wonjun16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
