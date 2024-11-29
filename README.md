@@ -1,7 +1,13 @@
 <!-- Title -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Wonjun's%20Github&fontSize=90)
 
-
+<!-- Tech-->
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp
+  ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)&nbsp
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp
+</div>
 
 <!--
 **wonjun16/wonjun16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
